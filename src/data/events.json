@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "title": "Festival de Música Eletrônica",
+        "price": "R$ 150,00",
+        "description": "Um dia inteiro de música eletrônica com DJs internacionais.",
+        "location": "Praia dos Coqueiros, RJ",
+        "date": "2022-12-15",
+        "image": "https://eletrovibez.com/wp-content/uploads/2020/02/4-festivais-imperdi%CC%81veis-de-mu%CC%81sica-eletro%CC%82nica-na-Europa-em-2022.jpg",
+        "tags": ["#música", "#eletrônica", "#festival"],
+        "hotels": [
+            {
+                "name": "Hotel Praia Sol",
+                "price": "R$ 200,00 por noite",
+                "distance": "0.5 km do evento"
+            },
+            {
+                "name": "Resort Coqueiros",
+                "price": "R$ 350,00 por noite",
+                "distance": "1 km do evento"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Conferência de Tecnologia",
+        "price": "R$ 300,00",
+        "description": "As últimas tendências em tecnologia e inovação.",
+        "location": "Centro de Convenções TechWorld, SP",
+        "date": "2023-01-20",
+        "image": "https://www.planejamento.pr.gov.br/sites/default/arquivos_restritos/files/imagem/2023-05/estonia_2.jpg",
+        "tags": ["#tecnologia", "#inovação", "#conferência"],
+        "hotels": [
+            {
+                "name": "Tech Hotel",
+                "price": "R$ 250,00 por noite",
+                "distance": "0.2 km do evento"
+            },
+            {
+                "name": "Innovate Stay",
+                "price": "R$ 300,00 por noite",
+                "distance": "0.6 km do evento"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Feira Gastronômica",
+        "price": "Grátis",
+        "description": "Delícias culinárias de todo o mundo em um só lugar.",
+        "location": "Parque da Cidade, BH",
+        "date": "2023-02-10",
+        "image": "https://catracalivre.com.br/wp-content/uploads/2016/04/carioquissima_4.jpg",
+        "tags": ["#gastronomia", "#comida", "#feira"],
+        "hotels": [
+            {
+                "name": "Gastro Hotel",
+                "price": "R$ 150,00 por noite",
+                "distance": "0.8 km do evento"
+            },
+            {
+                "name": "Culinary Inn",
+                "price": "R$ 180,00 por noite",
+                "distance": "1.2 km do evento"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Maratona de Filmes de Terror",
+        "price": "R$ 50,00",
+        "description": "Maratona noturna com os clássicos do cinema de terror.",
+        "location": "Cinema Central, POA",
+        "date": "2023-03-15",
+        "image": "https://portalperifacon.com/wp-content/uploads/2023/10/image003.jpg",
+        "tags": ["#cinema", "#terror", "#maratona"],
+        "hotels": [
+            {
+                "name": "Horror Hotel",
+                "price": "R$ 200,00 por noite",
+                "distance": "1 km do evento"
+            },
+            {
+                "name": "Fright Night Inn",
+                "price": "R$ 220,00 por noite",
+                "distance": "1.5 km do evento"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Exposição de Arte Contemporânea",
+        "price": "R$ 80,00",
+        "description": "Exposição das obras de artistas contemporâneos renomados.",
+        "location": "Museu de Arte Moderna, RJ",
+        "date": "2023-04-25",
+        "image": "https://static.portaldaindustria.com.br/portaldaindustria/noticias/media/imagem_plugin/ma.jpg",
+        "tags": ["#arte", "#exposição", "#contemporânea"],
+        "hotels": [
+            {
+                "name": "Modern Art Hotel",
+                "price": "R$ 300,00 por noite",
+                "distance": "0.5 km do evento"
+            },
+            {
+                "name": "Gallery Stay",
+                "price": "R$ 350,00 por noite",
+                "distance": "1 km do evento"
+            }
+        ]
+    }
+]
